@@ -1,6 +1,6 @@
 #Movie Trailer Website
 
-This ~**_Movie Trailer Website_**~ is an exciting application that will allow you to open a webbrowser with my favorite movies. Also listed will be their discreptions and a picture of their movie posters, furthermore clicking on this poster will play the movies trailer. 
+This **_Movie Trailer Website_** is an exciting application that will allow you to open a webbrowser with my favorite movies. Also listed will be their discreptions and a picture of their movie posters, furthermore clicking on this poster will play the movies trailer. 
 
 #installation
 
