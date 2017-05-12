@@ -4,7 +4,7 @@ This **_Movie Trailer Website_** is an exciting application that will allow you 
 
 #installation
 
-Please install python version 2.7. Please also make sure you have a webbrowser installed. You Will need to download the "media" files, and the "Fresh_tomatoes" File in order for this code to run successfully 
+Please install python version 2.7. Please also make sure you have a webbrowser installed. You Will need to download the "media" files, and the "Fresh_tomatoes.html" and "Fresh_tomatoes.py" File in order for this code to run successfully 
 
 #useage
 
