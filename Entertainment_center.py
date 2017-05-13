@@ -9,7 +9,8 @@ toy_story = media.Movie(
     "https://www.youtube.com/watch?v=KYz2wyBy3kc")
 #Ceating the instance of class "Movie" Named "Avatar"
 avatar = media.Movie(
-    "Avatar", "Blue smurfs try not to get blown up",
+    "Avatar",
+    "Blue smurfs try not to get blown up",
     "http://vignette3.wikia.nocookie.net/jamescameronsavatar/images/5/5b/3D_Blu-ray_Cover.jpg/revision/latest?cb=20120815202134",
     "https://www.youtube.com/watch?v=cRdxXPV9GNQ")
 #Ceating the instance of class "Movie" Named "The Prince Of Egypt"
